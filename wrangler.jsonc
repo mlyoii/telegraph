@@ -2,6 +2,6 @@
 	    "name": "worker-name",
 	    "compatibility_date": "2025-12-14",
 	    "assets": {
-	      "main": "./_worker.js"
+	      "directory": "./_worker.js"
 	    }
 	  }
